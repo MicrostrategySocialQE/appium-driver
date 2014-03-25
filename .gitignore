@@ -1,0 +1,10 @@
+*.pyc
+.idea/*
+.svn/*
+*.txt
+*api*
+temp.*
+*.png
+*instrument*
+views/*
+suite/*
